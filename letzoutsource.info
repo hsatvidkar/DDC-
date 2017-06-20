@@ -1,0 +1,18 @@
+name = Letzoutsource
+description = Lreative Responsive Theme Developed by letzoutsource.com
+core = 7.x
+engine = phptemplate
+
+;CSS
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/font-awesome.min.css
+stylesheets[all][] = css/animate.min.css
+stylesheets[all][] = css/main.css
+
+regions[header] = Header
+regions[menu] = Menu
+regions[mainslider] = Mainslider
+regions[sidebar] = Sidebar
+regions[content] = Content
+regions[footer] = Footer
+regions[help] = Help
